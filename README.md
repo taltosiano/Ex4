@@ -10,19 +10,20 @@
 we use the previous graph implementation on Ex3. and we add some other classes to based the game.
 
 ### pokemon
-represents the set of operations applicable on a  node (vertex) in a (directional)     
- weighted graph.
-Every node has data (id,pos) that helps us to representing the graph in the most accurate way. 
+Represents the players
 
 ### agent
-represents the set of operations applicable on a directional  edge(src,dest,weight)  in a (directional) weighted graph.
+Represents the pokemons
 
 ### MyGame
 represents a Directional Weighted Graph with all his elements(Nodes,Edeges)and   including many functions that updates his elements.
 
 ### student code
+Represents the GUI class
 
 ### client
+Represents the server
+
 
 |function  |  Description |  output |
 | ------------ | ------------ | ------------ | 
