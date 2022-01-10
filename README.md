@@ -1,7 +1,7 @@
 # Ex4
 
 
-## final project - our pokemon game!
+## final project on OPP course - our pokemon game!
 
 ![ppkemonnn](https://user-images.githubusercontent.com/94299489/148839230-246413c2-f5b0-4d7a-92f5-df1452c42756.png)
 
