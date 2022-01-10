@@ -1,14 +1,11 @@
 # Ex4
 
 
-### final project - ## our pokemon game!
+## final project - our pokemon game!
+
+![ppkemonnn](https://user-images.githubusercontent.com/94299489/148839230-246413c2-f5b0-4d7a-92f5-df1452c42756.png)
 
 
-### Design and implement two main interfaces:
-
-+ Interface of a weighted directed graph
-
-+ Interface of algorithms on graphs (weighted tuners).
         
 ## The process of creating the project:
 We built a system that builds a weighted graph by the classes:
