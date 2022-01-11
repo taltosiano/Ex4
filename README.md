@@ -9,22 +9,6 @@
 ## our project classes:
 we use the previous graph implementation on Ex3. and we add some other classes to based the game.
 
-### pokemon
-Represents the players
-
-### agent
-Represents the pokemons
-
-### MyGame
-
-
-### student code
-Represents the GUI class
-
-### client
-Represents the server
-
-
 |function  |  Description | 
 | ------------ | ------------ | 
 |  pokemon |  Represents the players | 
