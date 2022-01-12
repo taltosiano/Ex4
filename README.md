@@ -28,6 +28,9 @@ java -jar Ex4_Server_v0.0.jar 0  ( “0” represents the case between [0-15])
 ### Computer specifications:
 Computer operating system is macOS, 256 SSD Apple M1 Chip with 8‑Core CPU and 7‑Core GPU and 16‑core Neural Engine 8GB unified memory, 16 GB
 
+## uml diagram
+![uml444](https://user-images.githubusercontent.com/94299489/149219967-479aaaa9-092f-4e6f-a095-1b8eb63acd2c.jpeg)
+
 
 
 ## Authors
