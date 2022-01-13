@@ -9,17 +9,28 @@
 ## our project classes:
 we use the previous graph implementation on Ex3. and we add some other classes to based the game.
 
-|function  |  Description | 
+| classe |  Description | 
 | ------------ | ------------ | 
 |  pokemon |  Represents the players | 
 |  agent |  Represents the pokemon | 
 | MyGame | return a dictionary of all the nodes in the Graph |
-|  student code | Represents the GUI clas |  
+|  student code | Represents the GUI class |  
 | client | Represents the server | 
 | Node | represents the set of operations applicable on a node (vertex) in a (directional) weighted graph | 
 | Edge | represents the set of operations applicable on a directional edge(src,dest,weight) in a (directional) weighted graph | 
 | DiGraph  | represents a Directional Weighted Graph with all his elements(Nodes,Edeges)and including many functions that updates his elements|  
 | GraphAlgo |  represents a Directed (positive) Weighted Graph Theory Algorithms and including many algorithms | 
+
+##some main function in our classes
+
+| function |  Description | 
+| ------------ | ------------ | 
+|  load_agents |  load list of agents from the Agant class | 
+|  load_pokemons |  load list of pokemos from the Pokemon class | 
+| theClosePokemon | looking for the closests pokemons to each agant |
+|  theNextNode | find the next node to go to |  
+
+
 
 ## HOW TO RUN THE GAME:
 the user should download the project to your own computer. In the terminal command line you should write: 
