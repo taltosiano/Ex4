@@ -1,11 +1,14 @@
 # Ex4
 
 
-## final project on OPP course - our pokemon game!
+## final project on OOP course - our pokemon game!
 
 ![ppkemonnn](https://user-images.githubusercontent.com/94299489/148839230-246413c2-f5b0-4d7a-92f5-df1452c42756.png)
 
-        
+### about the assignment
+In this task we were asked to create a Pokemon game. The intention is to create Pokemons that will be scattered on a directed graph that we have 
+already built in Ex3 , and to create agents that should catch as many Pokemon as possible at a minimum track length to perform this action.
+
 ## our project classes:
 we use the previous graph implementation on Ex3. and we add some other classes to based the game.
 
@@ -21,7 +24,7 @@ we use the previous graph implementation on Ex3. and we add some other classes t
 | DiGraph  | represents a Directional Weighted Graph with all his elements(Nodes,Edeges)and including many functions that updates his elements|  
 | GraphAlgo |  represents a Directed (positive) Weighted Graph Theory Algorithms and including many algorithms | 
 
-##some main function in our classes
+## some main function in our classes
 
 | function |  Description | 
 | ------------ | ------------ | 
